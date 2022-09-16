@@ -12,3 +12,4 @@ gitdemo
 ssh
 ssh
 nice
+local
